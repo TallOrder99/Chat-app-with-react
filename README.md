@@ -29,8 +29,8 @@ A modern **chat application** built with **React.js**, featuring real-time messa
 ## **🚀 Getting Started**  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-repo/chat-app.git
-   cd chat-app
+   git clone https://github.com/TallOrder99/chat-app-with-react.git
+   cd chat-app-with-react
    ```  
 
 2. **Install dependencies**  
